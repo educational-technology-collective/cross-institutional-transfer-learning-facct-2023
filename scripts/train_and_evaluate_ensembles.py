@@ -10,7 +10,7 @@ By default, this script only uses logistic regression models, although
 additional model types can be speficified via the model_types flag.
 
 Usage:
-python scripts/train_and_evaluate_ensembles.py --target_institution um
+python scripts/train_and_evaluate_ensembles.py --target_institution my_institution
 """
 
 import argparse

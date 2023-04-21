@@ -16,6 +16,9 @@ INTERACTION_DEGREES = [1, ]
 # Model kwarg names
 L2LAMBDA = "l2lambda"
 
+# Your institution codes here.
+INSTITUTION_CODES = ("my_institution", "another_institution")
+
 ENSEMBLE = "ensemble"
 
 MODEL_DIR = "./models"

@@ -3,7 +3,7 @@ Script to train a model on a given instutitions' dataset.
 
 Usage:
 
-python scripts/train.py --src_institution um --lambda_sweep
+python scripts/train.py --src_institution my_institution --lambda_sweep
 """
 import argparse
 import logging

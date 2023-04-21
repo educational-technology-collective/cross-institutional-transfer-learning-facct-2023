@@ -1,5 +1,9 @@
 """
+<<<<<<< HEAD
 Script to evaluate a set of trained models on a given instutitions' dataset.
+=======
+Script to evaluate a set of trained models on a given institution's dataset.
+>>>>>>> 3c55780 (initial commit)
 
 Will attempt to evaluate models from all possible source institutions,
 of all possible model types, on the given target institution. This includes
@@ -7,7 +11,7 @@ a sweep of L2LR regularization values.
 
 Usage:
 
-python scripts/evaluate.py --target_institution um --lambda_sweep
+python scripts/evaluate.py --target_institution my_institution --lambda_sweep
 """
 import argparse
 import logging
