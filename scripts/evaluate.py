@@ -1,9 +1,5 @@
 """
-<<<<<<< HEAD
-Script to evaluate a set of trained models on a given instutitions' dataset.
-=======
 Script to evaluate a set of trained models on a given institution's dataset.
->>>>>>> 3c55780 (initial commit)
 
 Will attempt to evaluate models from all possible source institutions,
 of all possible model types, on the given target institution. This includes
